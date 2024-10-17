@@ -1,4 +1,4 @@
-# UI Test Detection in Swift
+# UI Test Detection in Swift via Swizzling
 
 ## Description
 
